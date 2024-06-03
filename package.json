@@ -1,0 +1,28 @@
+{
+  "name": "saltcorn-fileview-editor",
+  "version": "1.0.0",
+  "description": "Image file editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HassanAfnan/fileview-editor.git"
+  },
+  "author": "Afnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HassanAfnan/fileview-editor/issues"
+  },
+  "homepage": "https://github.com/HassanAfnan/fileview-editor#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@saltcorn/data": "^0.9.6-beta.0",
+    "@saltcorn/db-common": "^0.9.6-beta.0",
+    "@saltcorn/markup": "^0.9.6-beta.0",
+    "underscore": "^1.13.6"
+  }
+}
